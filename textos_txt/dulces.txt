@@ -1,0 +1,5 @@
+bombon : 500
+gomitas : 200
+chicle : 300
+papitas : 1000
+gaseosa : 1500
