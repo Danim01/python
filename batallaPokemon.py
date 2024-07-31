@@ -27,7 +27,7 @@ print("4: Electrico")
 atacante = int(input("\nIngrese el número de su Pokémon atacante "))
 
 
-print("\nAtacantes")
+print("\nDefensor")
 print("1: Agua")
 print("2: Fuego")
 print("3: Planta")
